@@ -1,0 +1,7 @@
+000100201019**FREE
+000200201019  dcl-s message char(30) inz('This is a test program') ;
+000300201019
+000400201029    dsply message;
+000500201019
+000600201019  *inlr = *On ;
+000700201019
